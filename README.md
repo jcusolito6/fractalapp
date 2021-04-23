@@ -1,1 +1,1 @@
-# fractalapp
+This project is a “Fractal” application that basically uses recursion to continuously draw shapes to make a fractal design. The UI is pretty straight forward, in the upper-left corner you can adjust how deep you want the recursion to go and you can use the sliders on the bottom to adjust different settings of the shape. The main file for this is “FractalApp.java”
